@@ -6,7 +6,7 @@ MBA-qualified Business Analyst with 7+ years turning unclear business problems i
 
 ### Start here
 
-- [Business Analyst Portfolio](https://github.com/olalekanajimoti/business-analyst-portfolio): 11 case studies with process maps, BRDs, FRDs, traceability matrices, UAT plans and workbooks
+- [Business Analyst Portfolio](https://github.com/olalekanajimoti/business-analyst-portfolio): 12 case studies with process maps, BRDs, FRDs, traceability matrices, UAT plans and workbooks
 - [BOZ Jewelry: retail and e-commerce transformation](https://github.com/olalekanajimoti/business-analyst-portfolio/tree/main/01-delivered-case-studies/boz-retail-transformation)
 - [NaijaFoodFestival: multi-user registration service](https://github.com/olalekanajimoti/business-analyst-portfolio/tree/main/01-delivered-case-studies/naija-food-festival-service-design)
 - [IndulgeTix: ticketing platform requirements and state model](https://github.com/olalekanajimoti/business-analyst-portfolio/tree/main/02-product-case-studies/indulgetix-ticketing-platform)
