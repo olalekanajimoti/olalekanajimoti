@@ -6,7 +6,7 @@ MBA-qualified Business Analyst with 9+ years turning unclear business problems i
 
 ### Start here
 
-- [Portfolio website](https://olalekanajimoti.vercel.app): the story, the work and how I think, in one place
+- [Portfolio website](https://olalekanajimoti.com): the story, the work and how I think, in one place
 - [Business Analyst Portfolio](https://github.com/olalekanajimoti/business-analyst-portfolio): 12 case studies with process maps, BRDs, FRDs, traceability matrices, UAT plans and workbooks
 - [MyTicketSeller: a live ticketing platform, from first build to production](https://github.com/olalekanajimoti/business-analyst-portfolio/tree/main/01-delivered-case-studies/myticketseller-event-ticketing)
 - [The Ecommerce Boss: business analysis consulting for small businesses](https://github.com/olalekanajimoti/business-analyst-portfolio/tree/main/01-delivered-case-studies/ecommerce-boss-sme-consulting)
@@ -21,4 +21,4 @@ Discovery interviews, stakeholder analysis, As-Is and To-Be process mapping, gap
 
 ### Contact
 
-[Website](https://olalekanajimoti.vercel.app) · [LinkedIn](https://www.linkedin.com/in/olalekan-ajimoti)
+[Website](https://olalekanajimoti.com) · [LinkedIn](https://www.linkedin.com/in/olalekan-ajimoti)
