@@ -2,7 +2,7 @@
 
 **Business Analyst | Digital Transformation | Retail, Events and Product**
 
-MBA-qualified Business Analyst with 7+ years turning unclear business problems into requirements, redesigned processes and tested digital solutions across e-commerce, event technology, marketing operations and early-stage products.
+MBA-qualified Business Analyst with 9+ years turning unclear business problems into requirements, redesigned processes and tested digital solutions across e-commerce, event technology, marketing operations and early-stage products.
 
 ### Start here
 
